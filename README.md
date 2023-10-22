@@ -1,6 +1,6 @@
 # Olá sou Alê Ribeiro
 - 🎯 Trabalho com desenvolvimento de Front-End | QA Tester | Especialista em Ecommerce
-- 🌎 Seja a Mudança! Busco empresas que queiram mudar o mundo, que sejam engajadas com a diversidade.
+- 🌎 Seja a Mudança! Busco empresas que queiram mudar o mundo, que sejam engajadas com a diversidade. [PLAY](https://open.spotify.com/intl-pt/track/2u2udGmop1z67EPpr91km7?si=5d5a69182fbe466b).
 - 👩🏾‍🦱 BLACK WOMAN POWER
 - 💡 Criatividade é minha essência e está em tudo que faço.
   
