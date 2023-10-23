@@ -6,8 +6,8 @@
   
   <div style="display: inline-block"><br>
   <a href="https://github.com/ribeirober1208">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirober1208&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirober1208&layout=compact&langs_count=7&theme=dracula"/> -->
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirober1208&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirober1208&layout=compact&langs_count=7&theme=dracula"/> -->
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="ribeiro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
